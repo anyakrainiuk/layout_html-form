@@ -17,7 +17,3 @@ label {
 .block .form_field:last-of-type {
   margin-bottom: 0;
 }
-
-.cats {
-  display: flex;
-}
